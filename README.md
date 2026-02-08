@@ -56,17 +56,19 @@
 
 ---
 ## 📊 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsMolina02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsMolina02&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gsMolina02&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gsMolina02&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 ---
 
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gsMolina02&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsMolina02&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -74,15 +76,16 @@
 ## 📈 Actividad reciente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsMolina02&theme=tokyo-night" />
+  <img src="https://ghchart.rshah.org/gsMolina02" />
 </p>
+
 
 ---
 
 ## 🏆 Logros
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gsMolina02&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gsMolina02&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
