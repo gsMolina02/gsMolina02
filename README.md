@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Gustavo Molina</h1>
+<h3 align="center">💻 Estudiante de tecnología | 🚀 Apasionado por el desarrollo de software</h3>
 
-<!--
-**gsMolina02/gsMolina02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante enfocado en programación y bases de datos  
+- 💡 Me gusta aprender nuevas tecnologías  
+- ⚙️ Interesado en desarrollo web y backend  
+- 🌎 Siempre mejorando mis habilidades
+
+---
+
+## 🚀 Tecnologías que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,mysql,git,github,html,css" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsMolina02&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsMolina02&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gsMolina02&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Actividad reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsMolina02&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gsMolina02&theme=onedark" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:tuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-Contactame-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
