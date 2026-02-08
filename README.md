@@ -58,10 +58,9 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gsMolina02&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gsMolina02&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gsMolina02&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gsMolina02&theme=github_dark" />
 </p>
-
 
 ---
 
@@ -85,7 +84,9 @@
 ## 🏆 Logros
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gsMolina02&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Repositorios-Activos-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-En%20progreso-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Perfil-En%20construcción-orange?style=for-the-badge" />
 </p>
 
 ---
