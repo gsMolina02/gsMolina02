@@ -81,16 +81,6 @@
 
 ---
 
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositorios-Activos-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-En%20progreso-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Perfil-En%20construcción-orange?style=for-the-badge" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p align="center">
